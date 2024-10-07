@@ -1,5 +1,5 @@
 
-###  LITA DATA DOCUMENTATION
+###  LITA CLASS DOCUMENTATION
 
 ###  Project Name:  Why Businesses Run Analysis
 
